@@ -1,3 +1,3 @@
 # main
 
-Goto Discussions: https://github.com/codeclv/main/discussions
+Go to Discussions: https://github.com/codeclv/main/discussions
